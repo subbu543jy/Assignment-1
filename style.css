@@ -1,0 +1,25 @@
+header{
+  text-align: center;
+  font-family: forte;
+}
+.parent{
+  display:flex;
+  flex-direction:row;
+  justify-content: center;
+}
+.leftChild{
+  width: 30%;
+  padding: 1%;
+  margin: 1%;
+
+}
+.rightChild{
+  width: 70%;
+  padding: 1%;
+  margin: 1%;
+
+}
+img{
+  width: 300px;
+  height: auto;
+}
